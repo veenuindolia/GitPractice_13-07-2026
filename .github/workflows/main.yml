@@ -12,7 +12,7 @@ jobs:
     name: Creating RG
     runs-on: ubuntu-latest
 
-  Steps:
+  steps:
     - name: azure login
     uses: azure/login@v3
     with:
