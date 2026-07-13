@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   RGCreate:
-    name: Creating a RG
+    name: Creating RG
     runs-on: ubuntu-latest
 
   Steps:
